@@ -1,2 +1,2 @@
-# ctf160230Project6.2
-Code for Project 6 UTD CS3377
+# ctf160230Project6.1
+Repository for Project 6
